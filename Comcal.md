@@ -15,7 +15,7 @@
 | Event Name | Location | Dates | Cost |
 |------------|----------|-------|------|
 | [Sydney Mac Admins](https://sydneymacadmins.com)| [Level 6, 341 George St, Sydney](https://goo.gl/maps/r2Tg6YvvBQiZfzst7) | 5:30pm 20th April 2023 | Free |
-|[MacAdminsUA](https://macadmins.org.ua/macadminsua-at-macpaw-space/) | [MacPaw.Space](https://macapw.space) | April 19 at 19:00 | Free |
+|[MacAdminsUA](https://macadmins.org.ua/macadmins-meetup-07/) | [MacPaw.Space](https://macapw.space) | June 29 at 18:30 | Free |
 
 
 ##### Recurring Meetups
